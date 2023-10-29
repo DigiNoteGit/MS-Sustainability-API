@@ -1,4 +1,4 @@
-# MS-Sustainability-API
+# Microsoft Azure Carbon Footprint Measurement via Microsoft Cloud for Sustainability API
 Basic Python script to access Microsoft Cloud for Sustainability (MCFS) API with a service principal
 
 Requirements:  
